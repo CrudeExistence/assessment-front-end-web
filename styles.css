@@ -43,4 +43,23 @@ img {
 	font-weight: bold;
 	color:darkred;
 	font-style: italic;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.myProfile {
+	border: 2px dashed rgb(255, 0, 0);
+	border-radius: 30%;
+	padding: 40px 5px;
+}
+
+h3 {
+	background-color: white;
+	border-radius: 50px;
+	text-align: center;
+	margin-top: 80px;
+}
+
+a.links {
+	background-color: empty;
 }
